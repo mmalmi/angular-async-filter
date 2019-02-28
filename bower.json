@@ -1,0 +1,26 @@
+{
+  "name": "angular-async-filter",
+  "description": "Angular2's async pipe for Angular 1. Promise in controller, value in view.",
+  "main": "angular-async-filter.js",
+  "authors": [
+    "Felix Becker <felix.b@outlook.com>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "angular",
+    "async",
+    "promise",
+    "unwrap",
+    "filter",
+    "pipe"
+  ],
+  "homepage": "https://github.com/mmalmi/angular-async-filter",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
